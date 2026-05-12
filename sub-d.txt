@@ -1,0 +1,12 @@
+www
+vpn
+prod
+api
+dev
+ftp
+staging
+mail
+admin
+adm
+administrator
+
